@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "89153796497",
+    "project_id": "taxiapp-51e14",
+    "storage_bucket": "taxiapp-51e14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89153796497:android:b7f235c218dcf781854230",
+        "android_client_info": {
+          "package_name": "com.example.cart_shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89153796497-q6gcd99nspbcao5omvgdijbctcbts72c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC6QX19vhWhHV5_UW34frvWJIUFZqBBQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89153796497-q6gcd99nspbcao5omvgdijbctcbts72c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "89153796497-u0rjemfm81h9f7m0pcs0gqggj6d4pnlk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cartShopping"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
